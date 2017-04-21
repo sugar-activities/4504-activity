@@ -1,0 +1,7 @@
+[Activity]
+name = MelloWorld
+activity_version = 3.GTK3
+bundle_id = org.sugarlabs.MelloWorld
+exec = sugar-activity activity.MelloWorldActivity
+icon = activity-melloworld
+license = GPLv2+
